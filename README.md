@@ -1,33 +1,19 @@
-# 🌿 Mamina – Branding Artesanal
+**# 🧼 Mamina – Branding artesanal
 
-Este proyecto muestra la identidad visual para *Mamina*, una marca de jabones, shampoos y acondicionadores artesanales con alma natural. La marca fue desarrollada como parte de un emprendimiento familiar en Francia.
+Este repositorio contiene el branding de **Mamina**, una marca familiar y artesanal dedicada a la elaboración de jabones, shampoos y acondicionadores sólidos, hechos a mano en Francia. 
 
----
-
-## 🎨 Identidad visual
-
-- Paleta de colores inspirada en ingredientes naturales
-- Tipografía artesanal y cálida
-- Diseño de etiquetas para tres productos
-- Enfoque minimalista y amigable
+El proyecto fue creado en Canva con enfoque natural, femenino y cálido, y busca resaltar los valores de sostenibilidad, cuidado y tradición familiar.
 
 ---
 
-## 📄 Ver presentación completa
+### 🌐 Enlaces
 
-🔗 [Ver brandbook en Canva]([https://www.canva.com/design/...](https://www.canva.com/design/DAGlNGnKCv8/WB9Bz_Hwjm_uixHzhigwnw/edit?utm_content=DAGlNGnKCv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-📄 O descargar el PDF directamente desde este repositorio
-
----
-
-## 🧼 ¿Qué sigue?
-
-✨ Este branding será la base para crear un e-commerce, dashboard de ventas con Power BI, y campañas de marketing digital dirigidas a Hoteles en Francia.
+📎 [Ver branding completo en Canva]([https://www.canva.com/design/tu-enlace-aqui](https://www.canva.com/design/DAGlNGnKCv8/WB9Bz_Hwjm_uixHzhigwnw/edit?utm_content=DAGlNGnKCv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+📄 Descarga el PDF de branding: `Mamina_Branding.pdf`
 
 ---
 
-> Desarrollado por: Jenny Salamanca  
-> Ingeniera Comercial y Analista de Datos en formación
+### ✨ Autoría
 
-# mamina-branding
-Proyecto de branding y visual identity para el emprendimiento artesanal Mamina.
+Creado por [Jenny Salamanca](https://www.linkedin.com/in/jenny-salamanca/) – Ingeniera Comercial en transición hacia Data Science, con experiencia en expansión comercial y emprendimientos creativos.
+**
