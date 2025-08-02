@@ -1,4 +1,4 @@
-**# 🧼 Mamina – Branding artesanal
+### 🧼 Mamina – Branding artesanal
 
 Este repositorio contiene el branding de **Mamina**, una marca familiar y artesanal dedicada a la elaboración de jabones, shampoos y acondicionadores sólidos, hechos a mano en Francia. 
 
